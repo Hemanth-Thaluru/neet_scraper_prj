@@ -17,6 +17,7 @@
     "qs": "^6.12.1"
   },
   "devDependencies": {
-    "@types/qs": "^6.9.15"
+    "@types/qs": "^6.9.15",
+    "typescript": "^5.4.5"
   }
 }
