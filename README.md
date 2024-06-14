@@ -3,6 +3,11 @@
 
 ## Why?
 
+## How to try it 
+- clone the repo
+- `cd neet_scraper_prj; npm i` and run the prj `npm run dev`
+- process starts and logs the found user details.
+  
 ## Things to do 
 - [X] Write fn to scrape details for specific user id and dob
 - [X] Iterate it for all users
